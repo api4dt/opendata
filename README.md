@@ -1,1 +1,3 @@
-# opendata
+# API for Digital Transformation open data repository
+The European Commission's DG CONNECT together with the Joint Research Centre (JRC) launched the "APIs4DGov - Digital Government APIs. The Road to value-added Open-driven services." study with the purpose to gain further understanding of the current use of APIs in digital government and their added value for public services.
+The collection contains observations and datasets that have used to support the study (related, for example, to API communities, API standards and governmental APIs). Notice that these datasets are maintained and published only for information purposes about the study (which finishes at the end of 2019). For this reason, they will be updated following the timeline of the study and it is not guaranteed they will be further updated after the end of the study. Should you have any update or comment on the datasets, please let us know.
